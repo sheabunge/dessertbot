@@ -1,0 +1,9 @@
+.desserts-form {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.desserts-form figure {
+  display: flex;
+  flex-flow: column;
+}
